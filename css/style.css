@@ -16,3 +16,9 @@ header{
     height: 40px;
     margin-top: 50px;
 }
+
+/* pattern */
+#pattern{
+    background: repeat;
+    height: 100px;
+}
