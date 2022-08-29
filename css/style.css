@@ -17,6 +17,12 @@ header{
     margin-top: 50px;
 }
 
+/* h1 */
 h1{
     padding-top: 10px;
+}
+
+/* img */
+#img{
+    padding-top: 20px;
 }
