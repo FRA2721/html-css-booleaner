@@ -1,0 +1,18 @@
+/* reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+/* header */
+header{
+    background-color: hsl(212deg 100% 65%); 
+    height: 100px;
+}
+
+/* logo */
+#logo{
+    height: 40px;
+    margin-top: 50px;
+}
